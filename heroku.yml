@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /Amazone/Dockerfile
+run:
+   worker: npm start
