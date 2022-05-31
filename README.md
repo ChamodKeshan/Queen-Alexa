@@ -3,13 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Queen-Alexa+project...;Created+by+ChamodKeshan...;Owner+by+En-cuzier...;Frist+aleXa+system+whatsapp+bot...;⚡+Alexa+is+super+speed...)](https://github.com/ChamodKeshan)
 
 #            WHAT'S THE NEW
-  <br/> <div align="center">   
- [![github](https://github.com/github.png?size150)](https://github.com/ChamodKeshan) |  
-----|
-[Queen-Alexa](https://github.com/ChamodKeshan/Queen-Alexa)  |
-Whatsapp bot , aleXa system|
-[![ChamodKeshan](https://github.com/heroku.png?size150)](https://github.com/ChamodKeshan/Queen-Alexa) |  ____|
-[Deploy](https://github.com/ChamodKeshan/Queen-Alexa)  |
-Helper & support , Deploy ,Not Error|
-
+   <br/> <div align="center">
+[![github](https://github.com/github.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/heroku.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![replit](https://github.com/replit.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/facebook.png?size=89)](https://ChamodKeshan/Queen-Alexa)<br/> 
+</div>
   
+#              CONTRIBUTORS
+  <br/> <div align="center">
+[![github](https://github.com/ChamodKeshan.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/En-cuzier.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![replit](https://github.com/xneon2.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/TOXIC-DEVIL.png?size=100)](https://ChamodKeshan/Queen-Alexa)[![bot](https://github.com/kawithma.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/Chamodya-official.png?size=100)](https://ChamodKeshan/Queen-Alexa)<br/> 
+</div>
+  
+#              SPONSOR
+  <br/> <div align="center">
+[![github](https://github.com/Queen-Alexa.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/aleXa.png?size=100)](https://ChamodKeshan/Queen-Alexa)[![replit](https://github.com/yusufusta.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/ChamodKeshan/ChamodKeshan/blob/master/Profile/image/msalexa1.jpg?size=10)](https://ChamodKeshan/Queen-Alexa)[![bot](https://github.com/phaticusthiccy.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/adiwajshing.png?size=100)](https://ChamodKeshan/Queen-Alexa)<br/> 
+</div>
