@@ -6,7 +6,7 @@
 
 
 <div align="center">
- <a href="github.com/ChamodKeshan"><img align="center" src="https://cardivo.vercel.app/api?name=Queen-Alexa&description=Hi,Welcome to the Queen Alexa project.Queen Alexa is power full whatsapp user bot.super speed and unlimited logo and commond.you can free by Queen-Alexa Wa bot.Not copyright claim.TANNKS FOR YOU.  nice to meet  you&image=https://github.com/Chamodya-official.png&backgroundColor=%23ecf0f1&whatsapp=wa.me/94702256963_&github=Queen-Alexa&pattern=ticTacToe&colorPattern=%23eaeaea" /
+ <a href="README.MD"><img align="center" src="https://cardivo.vercel.app/api?name=Queen-Alexa&description=Hi,Welcome to the Queen Alexa project.Queen Alexa is power full whatsapp user bot.super speed and unlimited logo and commond.you can free by Queen-Alexa Wa bot.Not copyright claim.TANNKS FOR YOU.  nice to meet  you&image=https://github.com/Chamodya-official.png&backgroundColor=%23ecf0f1&whatsapp=wa.me/94702256963_&github=Queen-Alexa&pattern=ticTacToe&colorPattern=%23eaeaea" /
 </a>
     
     
