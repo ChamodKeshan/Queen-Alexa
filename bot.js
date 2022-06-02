@@ -80,7 +80,7 @@ async function Amazone () {
 setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.github.com/jesonpro/e53460783ca15561419e82afe5a4258f/raw').then(async (ann) => {
+        await axios.get('https://gist.github.com/ChamodKeshan/d98d1b9365032ce5d33f60b3784d2e02/raw').then(async (ann) => {
             const { infoen, infoes, infopt, infoid, infoaz, infosi, infoml, infotr} = ann.data.announcements          
             if (infoml !== '' && config.LANG == 'TR') {
                 while (getGMTh == 19 && getGMTm == 1) { 
@@ -233,7 +233,7 @@ setInterval(async () => {
 
 // ===================AUTO-BIO===================
 
-    var insult = await axios.get('https://gist.githubusercontent.com/phaticusthiccy/f16bbd4ceeb4324d4a727b431a4ef1f2/raw')
+    var insult = await axios.get('https://gist.github.com/ChamodKeshan/15d7be832deda495441ddc6c7b7ae1a9/raw')
     const { shs1, shl2, lss3, dsl4 } = insult.data.inside
     await config.DATABASE.sync();
     var StrSes_Db = await AmazoneDB.findAll({
