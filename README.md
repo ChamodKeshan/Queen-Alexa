@@ -1,19 +1,23 @@
-##### 👸Queen-Alexa (button bot)
+##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁ (BUTTON)
+
+
 <div align="center">
+ <a href="https://github.com/ChamodKeshan/Queen-Alexa">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Queen+alexa...;Created+by+ChamodKeshan...;Owner+by+En-cuzier...;Frist+aleXa+system+whatsapp+bot...;Alexa+is+super+speed...;Thank+You+For+Visiting+us"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+    Queen alexa is the whatsapp bot project.
+    it can help us to any work in some command.
+    This is a best whatsapp robot with artificial intelligent.
+<p align="center">
  
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=leamon&color=F70000&lines=Welcome+to+Queen-Alexa+project...;Created+by+ChamodKeshan...;Owner+by+En-cuzier...;Frist+aleXa+system+whatsapp+bot...;Alexa+is+super+speed...?size=200)](https://github.com/ChamodKeshan/Queen-Alexa)
-   
-
-
-<div align="center">
- <a href="Amazone"><img align="center" src="https://cardivo.vercel.app/api?name=Queen-Alexa&description=Hi,Welcome to the Queen Alexa project.Queen Alexa is power full whatsapp user bot.super speed and unlimited logo and commond.you can free by Queen-Alexa Wa bot.Not copyright claim.TANNKS FOR YOU.  nice to meet  you&image=https://github.com/Chamodya-official.png&backgroundColor=%23ecf0f1&whatsapp=wa.me/94702256963_&github=Queen-Alexa&pattern=ticTacToe&colorPattern=%23eaeaea" /
-</a>
     
     
-#            WHAT'S THE NEW ?
-   <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/heroku.png?size=89)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Alexa)[![replit](https://github.com/replit.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/facebook.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)<br/>
-</div>
+
    
 ````test
    hey'user you can free deploy Queen Alexa whatsapp bot.Queen Alexa is button system.click to deploy button with deploy your bot.
@@ -21,8 +25,58 @@
   ````test
   ඔයාට පුළුවන් Queen-Alexa whatsapp bot ව නොමිලේම deploy කරගන්න.Queen Alexa සම්පූර්ණයෙන්ම button බොටෙක්.ඒත් ඔයාලට තාම බටන් නෑ.ඔයාට පුළුවන් deploy එක ඔබලා ඔයාගේ බොට්ව install නැත්නම් deploy කරගන්න.
   ````
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Alexa)
+  
 
+
+
+    
+
+<p align="center">
+
+
+
+![logo](https://telegra.ph/file/d1eb8fabf9e772e419f1c.jpg)
+
+
+
+
+### 🧚‍♀️ALEXA TEAM💫
+
+
+👨‍💻  EN cuzier *[ Owner ]*
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94770828171)
+
+  👨‍💻  ChamodKeshan *[ Creater, helper ]*
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94786825798)
+
+
+👨‍💻  Chethana bro [ Supporter, bug fixer ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-Whatsapp-blue.svg)](https://Wa.me/+94766598862)
+
+👨‍💻  Thimira bro  [ Helper & information Founder]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94781508896)
+
+👨‍💻 Himasha bro   [  Erorr founder ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94762657701)
+
+**╭──⦁ Simple method ⦁──╮**
+
+## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+
+## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Alexa)
+ 
+#            WHAT'S THE NEW ?
+   <br/> <div align="center">
+[![github](https://github.com/github.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/heroku.png?size=89)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Alexa)[![replit](https://github.com/replit.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/facebook.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)<br/>
+</div>
   
 #              CONTRIBUTORS
   <br/> <div align="center">
