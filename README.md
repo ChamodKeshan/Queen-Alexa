@@ -95,16 +95,3 @@
 [![github](https://github.com/Queen-Alexa.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/aleXa.png?size=50)](https://ChamodKeshan/Queen-Alexa)[![replit](https://github.com/yusufusta.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/alexi.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![bot](https://github.com/phaticusthiccy.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/adiwajshing.png?size=50)](https://ChamodKeshan/Queen-Alexa)<br/> 
 </div>
 
-#              TOOLS
-   <br/> <div align="center">
-  [![Heroku](https://github.com/telegraph.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/remove-bg.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/Google.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)
-   
-#             BOT SUPPORT
-   <br/> <div align="center">
-   [![Heroku](https://github.com/ioc.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/android.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/apple.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/Huawei.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/Samsung.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/intel.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/desktop.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/dell.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/Microsoft.png?size=50)](https://github.com/ChamodKeshan/Queen-Alexa)
-   
-   
-   
-   
-   
-   
