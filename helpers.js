@@ -5,13 +5,13 @@ NEOTROX.
 */
 
 function successfullMessage(msg) {
-    return "👩‍🦰 *AMAZONE ALEXA*:  ```" + msg + "```"
+    return "👸 *QUEEN ALEXA*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🚀 *AMAZONE ALEXA*:  ```" + msg + "```"
+    return "👸 *QUEEN ALEXA*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "🤖 *AMAZONE ALEXA*:  ```" + msg + "```"
+    return "👸 *QUEEN ALEXA*:  ```" + msg + "```"
 }
 
 
