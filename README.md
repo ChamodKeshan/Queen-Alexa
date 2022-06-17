@@ -1,4 +1,4 @@
-##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁ (BUTTON)
+##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁ [BUTTON](#click-here-to-deploy)
 
 
 <div align="center">
@@ -67,7 +67,7 @@
   ````test
   ඔයාට පුළුවන් Queen-Alexa whatsapp bot ව නොමිලේම deploy කරගන්න.
   Queen Alexa සම්පූර්ණයෙන්ම button බොටෙක්.ඒත් ඔයාලට තාම බටන් නෑ.
-  ඔයාට පුළුවන් deploy එක ඔබලා ඔයාගේ බොට්ව install නැත්නම් deploy කරගන්න.
+  ඔයාට පුළුවන් deploy එක ඔබලා ඔයාගේ බොට්ව install නැත්නම් කරගන්න.
   ````
  
 **╭──⦁ Simple method ⦁──╮**
@@ -77,11 +77,11 @@
 
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Alexa-deploy)
  
 #            WHAT'S THE NEW ?
    <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/heroku.png?size=89)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Alexa)[![replit](https://github.com/replit.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/facebook.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)<br/>
+[![github](https://github.com/github.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/ChamodKeshan/Queen-Alexa) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/facebook.png?size=89)](https://ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ChamodKeshan/Queen-Alexa)<br/>
 </div>
   
 #              CONTRIBUTORS
