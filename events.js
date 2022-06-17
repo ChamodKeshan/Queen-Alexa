@@ -10,7 +10,7 @@ var Commands = [];
 
 function addCommand(info, func) {
     
-    var types = ['photo', 'image', 'text', 'message'];
+    var types = ['photo', 'image', 'text', 'button', 'message'];
 
     var infos = {
         fromMe: info['fromMe'] === undefined ? true : info['fromMe'], // Or Sudo
