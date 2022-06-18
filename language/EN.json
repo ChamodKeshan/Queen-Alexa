@@ -242,7 +242,8 @@
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
             "SYSD_DESC": "Shows the system properties."
-        },
+            "ALIVE1_DESC": "🌼GOOD BOT"
+	},
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
             "ADMİN": "*I am not admin in this group!*",
