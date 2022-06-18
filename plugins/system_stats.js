@@ -128,7 +128,7 @@ Amazone.addCommand({pattern: 'aliv', fromMe: Work_Mode, desc: Lang.ALIVE_DESC,  
     ]
     const buttonMessage = {
         contentText: MSG,
-        footerText: '👸QUEEN ALEXA NEW VERSION',
+        footerText: '👸QUEEN ALEXA',
         buttons: buttons,
         headerType: 4,
         imageMessage: media.message.imageMessage    
@@ -136,7 +136,7 @@ Amazone.addCommand({pattern: 'aliv', fromMe: Work_Mode, desc: Lang.ALIVE_DESC,  
     await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage);
 }))
 
-Amazone.addCommand({pattern: 'system', fromMe: true, desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
+Amazone.addCommand({pattern: 'qasystem', fromMe: true, desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
@@ -149,7 +149,7 @@ Amazone.addCommand({pattern: 'system', fromMe: true, desc: Lang.SYSD_DESC, dontA
         );
     }));
 
-Amazone.addCommand({pattern: 'sysd', fromMe: Work_Mode, desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
+Amazone.addCommand({pattern: 'qaversion', fromMe: Work_Mode, desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
