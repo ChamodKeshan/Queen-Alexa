@@ -13,7 +13,7 @@ const YTV_DESC = "Facebook Video Downloader V2 ."
 const YT_NEED = "*need word!.*"
 const DWLOAD_VID = "*🎭Downloading Your Video...*"
 const YTV_UP = "*🚀Uploading Your Video...*"
-const NO_RESULT = "*🌀can't Find Anything...*"
+const NO_RESULT = "*💁‍♀️can't Find Anything...*"
 const tk = Config.WORKTYPE == 'public' ? false : true
 
     amazone.addCommand({ pattern: 'fb ?(.*)', fromMe: tk, deleteCommand: false, desc: Lang.MP4,  deleteCommand: false}, async (message, match) => {
@@ -21,7 +21,7 @@ const tk = Config.WORKTYPE == 'public' ? false : true
         if (!linkk) return await message.client.sendMessage(message.jid,YT_NEED,MessageType.text)
         await message.client.sendMessage(message.jid,DWLOAD_VID,MessageType.text);
         await axios
-          .get(`https://api.dapuhy.ga/api/socialmedia/snapsave?url=${linkk}&apikey=TEENU`)
+          .get(`https://api.dapuhy.xyz/api/socialmedia/snapsave?url=${linkk}&apikey=TEENU`)
           .then(async (response) => {
             const {
               hd,
