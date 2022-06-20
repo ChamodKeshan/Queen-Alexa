@@ -1,4 +1,4 @@
-##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁ [BUTTON](#click-here-to-deploy)
+##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁ [BUTTON](./alexa)
 
 
 <div align="center">
